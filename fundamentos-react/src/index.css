@@ -1,6 +1,15 @@
 body{
     background-color: #222;
+    font-family: Oswald;
     /* background: rgb(108,99,255);
     background: linear-gradient(142deg, rgba(108,99,255,1) 0%, rgba(255,101,130,1) 99%); */
     color:antiquewhite;
+    text-align: center;
+}
+h1,h2,h3{
+    font-weight: 200;
+
+}
+h2,h3{
+    margin: 0;
 }
